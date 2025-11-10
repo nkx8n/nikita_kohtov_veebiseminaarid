@@ -14,3 +14,17 @@ img {
   border: 3px solid #555;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background-color: #ddd;
+  font-weight: bold;
+}
+
+td, th {
+  border: 1px solid #999;
+  padding: 8px;
+}
